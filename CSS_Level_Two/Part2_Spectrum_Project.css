@@ -1,0 +1,40 @@
+.spectrum{
+  margin: auto;
+}
+
+th{
+  font-family: 'Indie Flower' ,cursive;
+}
+
+h3{
+  text-align:center;
+  font-family: 'Pacifico', cursive;
+}
+
+td{
+  background-color: black;
+  height:300px;
+  width:150px;
+  border: 5px solid white;
+}
+
+#first{
+  background-color: #f8bc26;
+
+}
+
+#second{
+  background-color: #f6937a;
+}
+
+#third{
+  background: #0e4671;
+}
+
+#fourth{
+  background: #102345;
+}
+
+#fifth{
+  background: #2f4d4f;
+}

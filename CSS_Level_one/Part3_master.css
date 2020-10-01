@@ -1,0 +1,26 @@
+.firstDiv{
+  color: #ff1f1f;
+  font-family: Open Sans;
+}
+
+.secondDiv{
+  color: #0b33d6;
+}
+
+#singledout{
+  color:green;
+  text-decoration:line-through;
+}
+
+h3 + ul{
+  border: 5px dotted purple;
+}
+
+li a{
+  color: purple;
+}
+
+li a[href="www.ysk.org"]{
+  color: red;
+  border: 3px solid red;
+}

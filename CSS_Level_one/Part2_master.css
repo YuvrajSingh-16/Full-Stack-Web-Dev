@@ -1,0 +1,17 @@
+body{
+  background: url(https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+  background-repeat:repeat;
+}
+p{
+  color:yellow;
+}
+div{
+  background: blue;
+  border-color: red;
+  border-width:10px;
+  border-style: double;
+}
+span{
+  background-color: white;
+  color:#209e24;
+}
